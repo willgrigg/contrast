@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/contrast/2017/01/01/pagination-works/</loc>
+<lastmod>2017-01-01T03:30:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/contrast/text/2017/01/18/example-text/</loc>
+<lastmod>2017-01-18T02:37:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/contrast/objects/2017/02/02/example-objects/</loc>
+<lastmod>2017-02-02T01:30:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/contrast/text/2017/02/18/example-text/</loc>
+<lastmod>2017-02-18T02:37:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/contrast/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/contrast/archive/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/contrast/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/contrast/page2/</loc>
+</url>
+</urlset>
