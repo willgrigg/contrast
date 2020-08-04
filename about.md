@@ -1,20 +1,19 @@
 ---
-title: "About"
+title: "faq"
 ---
 
-### About Me
+<h1><strong>who</strong></h1>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I'm Will Grigg, and you're not
 
-### My life
+<h1><strong>what</strong></h1>
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Tech stuff, movie reviews, circus recommendations
 
- - Dictumst
- - Vestibulum
- - Rhoncus
- - Pellentesque
- 
-Maecenas accumsan lacus vel facilisis volutpat est velit. Arcu bibendum at varius vel. Aliquam etiam erat velit scelerisque in dictum non consectetur a. Pulvinar sapien et ligula ullamcorper malesuada proin libero nunc. 
+<h1><strong>why</strong></h1>
 
-Ultrices dui sapien eget mi proin sed. Dignissim sodales ut eu sem.
+Because I get bored sometimes
+
+<h1><strong>how</strong></h1>
+
+Poorly
