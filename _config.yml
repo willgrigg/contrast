@@ -25,6 +25,7 @@ links: # see http://fontawesome.io/icons/#brand for all possible icons
   # - twitter: "https://twitter.com/twitter/"
   - github: "https://github.com/willgrigg"
   - envelope: "mailto:willwgrigg@gmail.com"
+  - youtube: "https://www.youtube.com/channel/UCcFFbl0jVninpLfxsWT13sg"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
 sass: {style: expanded}
